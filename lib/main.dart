@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_examples/chapter.dart';
+import 'package:flutter_examples/pages/chapter1/bottom_navigation.dart';
 
 void main() => runApp(MyApp());
 
@@ -10,6 +11,7 @@ class MyApp extends StatelessWidget {
       title: '20个Flutter实例',
       routes: {
         '/': (context) => Home(),
+        'chapter1': (context) => BottomNavigation()
       },
     );
   }
