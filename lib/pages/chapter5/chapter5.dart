@@ -5,7 +5,7 @@
 
  * -----
  * Created  By: Aim 2020-04-22 17:02:05
- * Modified By: Aim 2020-04-22 17:27:22
+ * Modified By: Aim 2020-04-22 19:24:47
  * -----
  * HISTORY:
  * Date      	By	Comments
@@ -14,8 +14,8 @@
 
 import 'package:flutter/material.dart';
 
-class Cahpter5 extends StatelessWidget {
-  const Cahpter5({Key key}) : super(key: key);
+class Chapter5 extends StatelessWidget {
+  const Chapter5({Key key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
